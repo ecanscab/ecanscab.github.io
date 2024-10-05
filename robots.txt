@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ecanscab.github.io/sitemap.html.gz
+Sitemap: https://ecanscab.github.io/app/sitemap.html.gz
+Sitemap: https://ecanscab.github.io/assets/sitemap.html.gz
+Sitemap: https://ecanscab.github.io/css/sitemap.html.gz
+Sitemap: https://ecanscab.github.io/data/sitemap.html.gz
+Sitemap: https://ecanscab.github.io/includes/sitemap.html.gz
+Sitemap: https://ecanscab.github.io/item/sitemap.html.gz
+Sitemap: https://ecanscab.github.io/src/sitemap.html.gz
